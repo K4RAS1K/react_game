@@ -1,0 +1,9 @@
+.Monster{
+    border: 0;
+    width: 500px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.Monster:active {     
+    background-color:red;    
+}
