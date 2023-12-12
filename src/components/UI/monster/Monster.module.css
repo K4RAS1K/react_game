@@ -4,6 +4,22 @@
     background-color: #fff;
     cursor: pointer;
 }
-.Monster:active {     
+.Monster:active{     
     background-color:red;    
+}
+
+.Shop{
+    display: flex;
+    gap: 10%;
+}
+
+.Swords{
+    cursor: pointer;
+    border-radius:30%;
+    border:0;
+    width: 100px;
+    height: 50px;
+}
+.Swords:active{     
+    background-color:green;    
 }
